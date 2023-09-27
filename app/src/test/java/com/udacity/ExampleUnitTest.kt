@@ -1,4 +1,4 @@
-package com.example.android.applicationloadingstatus
+package com.udacity
 
 import org.junit.Test
 
